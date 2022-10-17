@@ -9,7 +9,7 @@ You can understand that this commond line can usually be splited into these part
 
 【constant1 variable.suffix1 constant2 > variable.suffix2】
 
-and for this example constant1 = faSize, suffix1 = fa constant2 = -detailed suffix2 = sizes ,and the variables are set in a batch_file
+and for this example constant1 = faSize, suffix1 = fa constant2 = -detailed suffix2 = sizes ,and the variables are setted in a batch_file
 
 Not surprisingly，the constant can be blank by enter a space. Your can do [sh batch_standard.sh] to build the batch
 
