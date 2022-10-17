@@ -1,6 +1,6 @@
 ##Usage : sh batch.sh
 ##Last batch file name = batch_run.sh
-read -p "Please write the inputfile prefix(example:fa):" prefix
+read -p "Please write the inputfile suffix(example:fa):" prefix
 for i in *.$prefix
 do
 	echo "$i" >> batch_file
