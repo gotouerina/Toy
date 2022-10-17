@@ -32,4 +32,4 @@ If not ,you can type 【conda install ParaFly】
 
 The python scripts can be used for anthor use,for example the tsv.sh for data download.
 
-The example file contains an example tsv file download from ENA(https://www.ebi.ac.uk/ena/browser/home),PRJNA842889
+The example file contains an example tsv file download from ENA(https://www.ebi.ac.uk/ena/browser/home),  PRJNA842889
