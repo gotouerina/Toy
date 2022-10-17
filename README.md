@@ -5,9 +5,9 @@ Considering an example for only one variable:
 
 <faSize *.fa -detailed > *.sizes>
 
-You can understand this commond line can usually be splited into these parts
+You can understand that this commond line can usually be splited into these parts
 
-constant1 variable.suffix1 constant2 > variable.suffix2
+<constant1 variable.suffix1 constant2 > variable.suffix2>
 
 and for this example constant1 = faSize, suffix1 = fa constant2 = -detailed suffix2 = sizes ,and the variables are set in a batch_file
 
@@ -19,7 +19,7 @@ Also,considering the follow situation
 
 These commond line can be splited in follow parts:
 
-constant1 variable.suffix constant2
+<constant1 variable.suffix constant2>
 
 constant1 = samtools faudx suffix =  fa constant2 = blank
 
