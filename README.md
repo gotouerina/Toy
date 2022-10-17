@@ -30,5 +30,6 @@ If you want to run the batch_run.sh by one step,Please Uncomment the the last tw
   
 If not ,you can type 【conda install ParaFly】
 
-The example file contains an example tsv file download from ENA(https://www.ebi.ac.uk/ena/browser/home),you can use the tsv.sh to test the script.
+The python scripts can be used for anthor use,for example the tsv.sh for data download.
 
+The example file contains an example tsv file download from ENA(https://www.ebi.ac.uk/ena/browser/home),PRJNA842889
