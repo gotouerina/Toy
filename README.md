@@ -25,5 +25,8 @@ constant1 = samtools faudx suffix =  fa constant2 = blank
 
 our can do <sh batch_noneout.sh> to build this type of batch
 
-If you want to run the batch_run.sh,Please Uncomment the the last two lines.Before this, you should make sure you install the ParaFly software.If not ,you can type <conda install ParaFly>
+If you want to run the batch_run.sh,Please Uncomment the the last two lines.Before this, you should make sure you install the ParaFly software.
+  
+  
+If not ,you can type <conda install ParaFly>
 
