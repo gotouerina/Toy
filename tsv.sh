@@ -5,4 +5,4 @@ cat example.tsv.txt   | awk '{print $8}' | tr -s ';' '\n'  | sed -e '1d' > batch
 echo "Please write the constant1 and constant2"
 python3 batch_noneout.py > download.sh
 ##t=`cat download.sh | wc -l`
-##ParaFly -c download.sh  -CPU 
+##ParaFly -c download.sh  -CPU && rm batch_run.sh && rm batch_file
