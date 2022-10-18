@@ -35,7 +35,7 @@ The python scripts can be used for anthor use,for example the tsv.sh for data do
 The example file contains an example tsv file download from ENA(https://www.ebi.ac.uk/ena/browser/home),  PRJNA842889
 
 
-If you do not use python, I provide a C version in src.
+I also provide a C version in src for only download data.
 
 Type:
 
