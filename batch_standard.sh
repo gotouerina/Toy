@@ -10,4 +10,4 @@ python3 batch_standard.py > batch_run.sh
 read -p "Please write the outputfile suffix(example:bam): " pre
 sed -i "s/\.$prefix.out/\.$pre /g" batch_run.sh
 ##len=`cat batch_run.sh | wc -l`
-##ParaFly -c batch_run.sh -CPU $len
+##ParaFly -c batch_run.sh -CPU $len && rm batch_run.sh && rm batch_file
