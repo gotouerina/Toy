@@ -10,5 +10,7 @@ echo "Please write the constant1 and constant2"
 x=`pwd`
 $x/batch  > batch_run.sh
 sed -i '$d' batch_run.sh
+sed -i '1d' batch_run.sh
+sed -i '1d' batch_run.sh
 ##len=`cat batch_run.sh | wc -l`
 ##ParaFly -c batch_run.sh -CPU $len
