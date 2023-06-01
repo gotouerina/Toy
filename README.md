@@ -1,6 +1,8 @@
 # Batch-Builder
 A  script to build batch for ParaFly
 
+#   已是废案，仅供复习语法
+
 Considering an example for only one variable:
 
     faSize *.fa -detailed > *.sizes
